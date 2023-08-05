@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_greengotty.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\greengotty.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_three.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_over_yellow.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_game_over_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_over_green.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_game_over_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle2.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\circle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_over_blue.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_game_over_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game_over_red.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_game_over_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_five.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle1.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\circle1.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_six.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle3.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\circle3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_one.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_redgotty.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\redgotty.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluegotty.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\bluegotty.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle4.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\circle4.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_four.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\drawable_yellowgotty.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\drawable\\yellowgotty.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_player_select.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\layout\\activity_player_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\MyLudo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
